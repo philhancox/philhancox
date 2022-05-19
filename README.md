@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **philhancox/philhancox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello! 👋 I'm Phil Hancox, a web developer based in Sheffield, England. 
+
+I'm a LAMP stack web developer with around 15 years of experience. I currently hold the role of Senior Systems Developer for Revolution Bars Group.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,git,jquery,laravel,linux,mysql,php,react,tailwind,vue,wordpress)](https://skillicons.dev)
